@@ -10,8 +10,8 @@ while True:
     start = big_line.find(pattern, start)
     if start == -1:
         break
-    positions.append(start + 1)  # Добавляем 1, чтобы получить 1-based индексы
-    start += 1  # Сдвигаем позицию на 1, чтобы найти следующее вхождение
+    positions.append(start + 1) #result nust be in 1-based system
+    start += 1 
 
 output_line = " ".join(map(str, positions))
 print(output_line)
