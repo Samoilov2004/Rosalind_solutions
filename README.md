@@ -1,2 +1,8 @@
-# Rosalind_solutions
-This is a repository with solutions to problems with Rosalind. The repository will be gradually replenished. Do not use the repository for cheating.
+# ROSALIND Solutions
+
+![ROSALIND Logo](https://rosalind.info/static/img/logo.png)
+
+This repository contains solutions to all problems from the [ROSALIND](https://rosalind.info/) website.
+
+- **Total Problems:** 318
+- **Solved:** 14
