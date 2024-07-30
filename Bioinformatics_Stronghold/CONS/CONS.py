@@ -25,7 +25,7 @@ profile_dict = {
 	'A':[0 for i in range(l)],
 	'C':[0 for i in range(l)],
 	'G':[0 for i in range(l)],
-	'T':[0 for i in range(l)],
+	'T':[0 for i in range(l)]
 	}
 
 for i in arr:
