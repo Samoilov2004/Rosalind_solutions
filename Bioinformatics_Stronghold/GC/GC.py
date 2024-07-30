@@ -3,7 +3,6 @@ from Bio import SeqIO
 
 file_path = './GC_input.fasta'
 
-
 def gc_value(line):
 	gc_num = 0
 	for i in line:
