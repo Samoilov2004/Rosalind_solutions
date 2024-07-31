@@ -12,23 +12,24 @@ Short description of all the tasks
 
 ## Bioinformatics Armory
 
-| Code | Description                         | Rosalind Link | Solution Link |
-|------|-------------------------------------|---------------|---------------|
-| INI  | Introduction to the Bioinformatics Armory | [Link](#) | [Link](#) |
-| GBK  | GenBank Introduction                | [Link](#) | [Link](#) |
-| FRMT | Data Formats                        | [Link](#) | [Link](#) |
-| MEME | New Motif Discovery                 | [Link](#) | [Link](#) |
-| NEED | Pairwise Global Alignment          | [Link](#) | [Link](#) |
-| TFSQ | FASTQ format introduction          | [Link](#) | [Link](#) |
-| PHRE | Read Quality Distribution          | [Link](#) | [Link](#) |
-| PTRA | Protein Translation                 | [Link](#) | [Link](#) |
-| FILT | Read Filtration by Quality          | [Link](#) | [Link](#) |
-| RVCO | Complementing a Strand of DNA       | [Link](#) | [Link](#) |
-| SUBO | Suboptimal Local Alignment          | [Link](#) | [Link](#) |
-| BPHR | Base Quality Distribution           | [Link](#) | [Link](#) |
-| CLUS | Global Multiple Alignment           | [Link](#) | [Link](#) |
-| ORFR | Finding Genes with ORFs             | [Link](#) | [Link](#) |
-| BFIL | Base Filtration by Quality          | [Link](#) | [Link](#) |
+| Code | Description                         | Rosalind Link                           | Solution Link                                                 |
+|------|-------------------------------------|-----------------------------------------|---------------------------------------------------------------|
+| INI  | Introduction to the Bioinformatics Armory | [Link](https://rosalind.info/problems/ini/) | [Link](Bioinformatics_Armory/INI/INI.py) |
+| GBK  | GenBank Introduction                | [Link](https://rosalind.info/problems/gbk/) | [Link](Bioinformatics_Armory/GBK/GBK.py) |
+| FRMT | Data Formats                        | [Link](https://rosalind.info/problems/frmt/) | [Link](Bioinformatics_Armory/FRMT/FRMT.py) |
+| MEME | New Motif Discovery                 | [Link](https://rosalind.info/problems/meme/) | [Link](Bioinformatics_Armory/MEME/MEME.pdf) |
+| NEED | Pairwise Global Alignment          | [Link](https://rosalind.info/problems/need/) | [Link](Bioinformatics_Armory/NEED/NEED.py) |
+| TFSQ | FASTQ format introduction          | [Link](https://rosalind.info/problems/tfsq/) | [Link](Bioinformatics_Armory/TFSQ/TFSQ.py) |
+| PHRE | Read Quality Distribution          | [Link](https://rosalind.info/problems/phre/) | [Link](Bioinformatics_Armory/PHRE/PHRE.py) |
+| PTRA | Protein Translation                 | [Link](https://rosalind.info/problems/ptra/) | [Link](Bioinformatics_Armory/PTRA/PTRA.py) |
+| FILT | Read Filtration by Quality          | [Link](https://rosalind.info/problems/filt/) | [Link](Bioinformatics_Armory/FILT/FILT.py) |
+| RVCO | Complementing a Strand of DNA       | [Link](https://rosalind.info/problems/rvco/) | [Link](Bioinformatics_Armory/RVCO/RVCO.py) |
+| SUBO | Suboptimal Local Alignment          | [Link](https://rosalind.info/problems/subo/) | [Link](Bioinformatics_Armory/SUBO/SUBO.py) |
+| BPHR | Base Quality Distribution           | [Link](https://rosalind.info/problems/bphr/) | [Link](Bioinformatics_Armory/BPHR/BPHR.py) |
+| CLUS | Global Multiple Alignment           | [Link](https://rosalind.info/problems/clus/) | [Link](Bioinformatics_Armory/CLUS/CLUS.py) |
+| ORFR | Finding Genes with ORFs             | [Link](https://rosalind.info/problems/orfr/) | [Link](Bioinformatics_Armory/ORFR/ORFR.py) |
+| BFIL | Base Filtration by Quality          | [Link](https://rosalind.info/problems/bfil/) | [Link](Bioinformatics_Armory/BFIL/BFIL.py) |
+
 
 ## Bioinformatics Stronghold 
 
