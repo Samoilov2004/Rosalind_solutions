@@ -1,11 +1,9 @@
 from Bio.Seq import Seq
 
-file_path = './INI_input.txt'
+file_path = '/Users/mihail/Downloads/rosalind_ini.txt'
 
 with open(file_path, 'r') as file:
-    data = file.read().split()
-
-sequence = str(data[0])
+    sequence = file.readline().strip()
 
 numbers = []
 for symbol in 'ACGT':
