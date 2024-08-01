@@ -5,7 +5,7 @@
 This repository contains solutions to problems from the [ROSALIND](https://rosalind.info/) website.
 
 - **Total Problems:** 318
-- **Solved:** 32
+- **Solved:** 35
 
 Short description of all the tasks 
 (if the task does not open, it means it has not been solved yet, or you forgot to add a link)
@@ -18,7 +18,7 @@ Short description of all the tasks
 | GBK  | GenBank Introduction                | [Link](https://rosalind.info/problems/gbk/) | [Link](Bioinformatics_Armory/GBK/GBK.py) |
 | FRMT | Data Formats                        | [Link](https://rosalind.info/problems/frmt/) | [Link](Bioinformatics_Armory/FRMT/FRMT.py) |
 | MEME | New Motif Discovery                 | [Link](https://rosalind.info/problems/meme/) | [Link](Bioinformatics_Armory/MEME/MEME.pdf) |
-| NEED | Pairwise Global Alignment          | [Link](https://rosalind.info/problems/need/) | [Link](Bioinformatics_Armory/NEED/NEED.py) |
+| NEED | Pairwise Global Alignment          | [Link](https://rosalind.info/problems/need/) | [Link](Bioinformatics_Armory/NEED/NEED.md) |
 | TFSQ | FASTQ format introduction          | [Link](https://rosalind.info/problems/tfsq/) | [Link](Bioinformatics_Armory/TFSQ/TFSQ.py) |
 | PHRE | Read Quality Distribution          | [Link](https://rosalind.info/problems/phre/) | [Link](Bioinformatics_Armory/PHRE/PHRE.py) |
 | PTRA | Protein Translation                 | [Link](https://rosalind.info/problems/ptra/) | [Link](Bioinformatics_Armory/PTRA/PTRA.py) |
