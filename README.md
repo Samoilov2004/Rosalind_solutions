@@ -1,4 +1,4 @@
-# ROSALIND Solutions
+# Rosalind Solutions
 
 ![ROSALIND Logo](https://rosalind.info/static/img/logo.png)
 
@@ -6,6 +6,15 @@ This repository contains solutions to problems from the [ROSALIND](https://rosal
 
 - **Total Problems:** 318
 - **Solved:** 40
+
+| Track                       | Status |
+|-----------------------------|--------|
+| Python Village              | ☑      |
+| Bioinformatics Stronghold   | ☐      |
+| Bioinformatics Armory       | ☑      |
+| Bioinformatics Textbook Track | ☐      |
+| Algorithmic Heights         | ☐      |
+
 
 Short description of all the tasks 
 (if the task does not open, it means it has not been solved yet, or you forgot to add a link)
