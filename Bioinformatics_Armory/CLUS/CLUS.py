@@ -1,48 +1,41 @@
 import subprocess
-from Bio import SeqIO
+from Bio import AlignIO
 from Bio.Align import MultipleSeqAlignment
 
-# Функция для выполнения множественного выравнивания с помощью ClustalW2
-def perform_multiple_alignment(input_file, output_file):
-    # Выполняем команду ClustalW2
-    command = ["clustalw2", "-infile=" + input_file, "-outfile=" + output_file, "-output=clustal"]
-    subprocess.run(command, check=True)
+# Step 1: Perform alignment using ClustalW2
+input_file = 'CLUS_input.fasta'
+output_file = 'CLUS_output.aln'
 
-# Функция для нахождения наиболее отличающейся строки
-def find_most_different_sequence(alignment_file):
-    # Читаем выравнивание
-    alignment = SeqIO.parse(alignment_file, "clustal")
-    sequences = list(alignment)
+# Run the ClustalW2 command and redirect the output to /dev/null
+# /dev/null is a special file that discards all data written to it.
+# This is used to suppress the output of the ClustalW2 command in the terminal.
+with open('/dev/null', 'w') as devnull:
+    subprocess.run(['clustalw2', '-infile=' + input_file, '-outfile=' + output_file, '-output=fasta'], stdout=devnull, stderr=devnull, check=True)
 
-    # Создаем матрицу расстояний
-    distance_matrix = {}
-    for i in range(len(sequences)):
-        for j in range(i + 1, len(sequences)):
-            seq1 = sequences[i].seq
-            seq2 = sequences[j].seq
-            distance = sum(1 for a, b in zip(seq1, seq2) if a != b and a != '-' and b != '-')
-            distance_matrix[(sequences[i].id, sequences[j].id)] = distance
+# Step 2: Read the alignment results using Biopython
+alignment = AlignIO.read(output_file, 'fasta')
 
-    # Находим строку с наибольшей суммой расстояний
-    max_distance_sum = 0
-    most_different_sequence = None
-    for i in range(len(sequences)):
-        distance_sum = sum(distance_matrix.get((sequences[i].id, sequences[j].id), 0) for j in range(len(sequences)) if i != j)
-        if distance_sum > max_distance_sum:
-            max_distance_sum = distance_sum
-            most_different_sequence = sequences[i].id
+# Step 3: Calculate the average percentage identity for each sequence
+def calculate_identity(seq1, seq2):
+    identical_positions = sum(1 for a, b in zip(seq1, seq2) if a == b)
+    identity_percentage = (identical_positions / len(seq1)) * 100
+    return identity_percentage
 
-    return most_different_sequence
+identities = {}
+for i in range(len(alignment)):
+    total_identity = 0
+    for j in range(len(alignment)):
+        if i != j:
+            seq1 = alignment[i].seq
+            seq2 = alignment[j].seq
+            identity_percentage = calculate_identity(seq1, seq2)
+            total_identity += identity_percentage
+    average_identity = total_identity / (len(alignment) - 1)
+    identities[alignment[i].id] = average_identity
 
-# Путь к входному файлу
-file_path = './Clus_input.fasta'
+# Step 4: Determine the sequence with the lowest average percentage identity
+worst_sequence = min(identities, key=identities.get)
 
-# Выполняем множественное выравнивание
-output_file = "alignment_output.aln"
-perform_multiple_alignment(file_path, output_file)
-
-# Находим наиболее отличающуюся строку
-most_different_sequence = find_most_different_sequence(output_file)
-
-# Выводим результат
-print(most_different_sequence)
+print(worst_sequence)
+with open('./CLUS_output.txt', 'w') as f:
+	f.write(worst_sequence)
