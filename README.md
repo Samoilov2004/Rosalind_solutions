@@ -5,7 +5,7 @@
 This repository contains solutions to problems from the [ROSALIND](https://rosalind.info/) website.
 
 - **Total Problems:** 318
-- **Solved:** 45
+- **Solved:** 50
 
 | Track                       | Status |
 |-----------------------------|--------|
