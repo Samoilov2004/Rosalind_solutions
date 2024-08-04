@@ -1,4 +1,4 @@
-input_file = '/Users/mihail/Downloads/rosalind_ba1d.txt'
+input_file = './BA1D_input.txt'
 output_file = './BA1D_output.txt'
 
 with open(input_file, 'r') as f:
