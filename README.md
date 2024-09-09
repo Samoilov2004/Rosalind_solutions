@@ -2,10 +2,10 @@
 
 ![ROSALIND Logo](https://rosalind.info/static/img/logo.png)
 
-This repository contains solutions to problems from the [ROSALIND](https://rosalind.info/) website.
+This repository contains solutions to problems from the [ROSALIND](https://rosalind.info/) website. In the solutions, both Python and C++ code were used for algorithms, as well as third-party bioinformatics programs. 
 
 - **Total Problems:** 318
-- **Solved:** 55
+- **Solved:** 65
 
 | Track                       | Status |
 |-----------------------------|--------|
