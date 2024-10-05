@@ -19,6 +19,7 @@ This repository contains solutions to problems from the [ROSALIND](https://rosal
 Short description of all the tasks 
 (if the task does not open, it means it has not been solved yet, or you forgot to add a link)
 
+
 ## Bioinformatics Armory
 
 | Code | Description                         | Rosalind Link                           | Solution Link                                                 |
@@ -40,114 +41,155 @@ Short description of all the tasks
 | BFIL | Base Filtration by Quality          | [Link](https://rosalind.info/problems/bfil/) | [Link](Bioinformatics_Armory/BFIL/BFIL.py) |
 
 
+## Algorithmic Heights
+
+| Code | Description                         | Rosalind Link                                 | Solution Link                                 |
+|------|-------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| FIBO | Fibonacci Numbers                  | [Link](https://rosalind.info/problems/fibo/) | [Link](Bioinformatics_Stronghold/FIBO/FIBO.py) |
+| BINS | Binary Search                      | [Link](https://rosalind.info/problems/bins/) | [Link](Bioinformatics_Stronghold/BINS/BINS.py) |
+| DEG  | Degree Array                       | [Link](https://rosalind.info/problems/deg/)  | [Link](Bioinformatics_Stronghold/DEG/DEG.py)  |
+| INS  | Insertion Sort                     | [Link](https://rosalind.info/problems/ins/)  | [Link](Bioinformatics_Stronghold/INS/INS.py)  |
+| DDEG | Double-Degree Array                | [Link](https://rosalind.info/problems/ddeg/) | [Link](Bioinformatics_Stronghold/DDEG/DDEG.py) |
+| MAJ  | Majority Element                   | [Link](https://rosalind.info/problems/maj/)  | [Link](Bioinformatics_Stronghold/MAJ/MAJ.py)  |
+| MER  | Merge Two Sorted Arrays            | [Link](https://rosalind.info/problems/mer/)  | [Link](Bioinformatics_Stronghold/MER/MER.py)  |
+| 2SUM | 2SUM                              | [Link](https://rosalind.info/problems/2sum/) | [Link](Bioinformatics_Stronghold/2SUM/2SUM.py) |
+| BFS  | Breadth-First Search               | [Link](https://rosalind.info/problems/bfs/)  | [Link](Bioinformatics_Stronghold/BFS/BFS.py)  |
+| CC   | Connected Components              | [Link](https://rosalind.info/problems/cc/)   | [Link](Bioinformatics_Stronghold/CC/CC.py)   |
+| MS   | Merge Sort                         | [Link](https://rosalind.info/problems/ms/)   | [Link](Bioinformatics_Stronghold/MS/MS.py)   |
+| 3SUM | 3SUM                              | [Link](https://rosalind.info/problems/3sum/) | [Link](Bioinformatics_Stronghold/3SUM/3SUM.py) |
+| DIJ  | Dijkstra's Algorithm               | [Link](https://rosalind.info/problems/dij/)  | [Link](Bioinformatics_Stronghold/DIJ/DIJ.py)  |
+| INV  | Counting Inversions                | [Link](https://rosalind.info/problems/inv/)  | [Link](Bioinformatics_Stronghold/INV/INV.py)  |
+| SQ   | Square in a Graph                  | [Link](https://rosalind.info/problems/sq/)   | [Link](Bioinformatics_Stronghold/SQ/SQ.py)   |
+| HEA  | Building a Heap                    | [Link](https://rosalind.info/problems/hea/)  | [Link](Bioinformatics_Stronghold/HEA/HEA.py)  |
+| PAR  | 2-Way Partition                    | [Link](https://rosalind.info/problems/par/)  | [Link](Bioinformatics_Stronghold/PAR/PAR.py)  |
+| BIP  | Testing Bipartiteness              | [Link](https://rosalind.info/problems/bip/)  | [Link](Bioinformatics_Stronghold/BIP/BIP.py)  |
+| DAG  | Testing Acyclicity                 | [Link](https://rosalind.info/problems/dag/)  | [Link](Bioinformatics_Stronghold/DAG/DAG.py)  |
+| BF   | Bellman-Ford Algorithm             | [Link](https://rosalind.info/problems/bf/)   | [Link](Bioinformatics_Stronghold/BF/BF.py)   |
+| CTE  | Shortest Cycle Through a Given Edge | [Link](https://rosalind.info/problems/cte/)  | [Link](Bioinformatics_Stronghold/CTE/CTE.py)  |
+| HS   | Heap Sort                          | [Link](https://rosalind.info/problems/hs/)   | [Link](Bioinformatics_Stronghold/HS/HS.py)   |
+| PAR3 | 3-Way Partition                    | [Link](https://rosalind.info/problems/par3/) | [Link](Bioinformatics_Stronghold/PAR3/PAR3.py) |
+| MED  | Median                             | [Link](https://rosalind.info/problems/med/)  | [Link](Bioinformatics_Stronghold/MED/MED.py)  |
+| PS   | Partial Sort                        | [Link](https://rosalind.info/problems/ps/)   | [Link](Bioinformatics_Stronghold/PS/PS.py)   |
+| TS   | Topological Sorting                 | [Link](https://rosalind.info/problems/ts/)   | [Link](Bioinformatics_Stronghold/TS/TS.py)   |
+| HDAG | Hamiltonian Path in DAG            | [Link](https://rosalind.info/problems/hdag/) | [Link](Bioinformatics_Stronghold/HDAG/HDAG.py) |
+| NWC  | Negative Weight Cycle               | [Link](https://rosalind.info/problems/nwc/)  | [Link](Bioinformatics_Stronghold/NWC/NWC.py)  |
+| QS   | Quick Sort                          | [Link](https://rosalind.info/problems/qs/)   | [Link](Bioinformatics_Stronghold/QS/QS.py)   |
+| SCC  | Strongly Connected Components      | [Link](https://rosalind.info/problems/scc/)  | [Link](Bioinformatics_Stronghold/SCC/SCC.py)  |
+| 2SAT | 2-Satisfiability                   | [Link](https://rosalind.info/problems/2sat/) | [Link](Bioinformatics_Stronghold/2SAT/2SAT.py) |
+| GS   | General Sink                        | [Link](https://rosalind.info/problems/gs/)   | [Link](Bioinformatics_Stronghold/GS/GS.py)   |
+| SC   | Semi-Connected Graph               | [Link](https://rosalind.info/problems/sc/)   | [Link](Bioinformatics_Stronghold/SC/SC.py)   |
+| SDAG | Shortest Paths in DAG               | [Link](https://rosalind.info/problems/sdag/) | [Link](Bioinformatics_Stronghold/SDAG/SDAG.py) |
+
+
 ## Bioinformatics Stronghold 
 
 | Code | Description                         | Rosalind Link                                 | Solution Link                                 |
 |------|-------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| dna  | Counting DNA Nucleotides            | [Link](https://rosalind.info/problems/dna/)   | [Link](Bioinformatics_Stronghold/DNA/DNA.py)   |
-| rna  | Transcribing DNA into RNA           | [Link](https://rosalind.info/problems/rna/)   | [Link](Bioinformatics_Stronghold/RNA/RNA.py)   |
-| revc | Complementing a Strand of DNA       | [Link](https://rosalind.info/problems/revc/)  | [Link](Bioinformatics_Stronghold/REVC/REVC.py) |
-| fib  | Rabbits and Recurrence Relations   | [Link](https://rosalind.info/problems/fib/)   | [Link](Bioinformatics_Stronghold/FIB/FIB.py)   |
-| gc   | Computing GC Content                | [Link](https://rosalind.info/problems/gc/)    | [Link](Bioinformatics_Stronghold/GC/GC.py)     |
-| hamm | Counting Point Mutations            | [Link](https://rosalind.info/problems/hamm/)  | [Link](Bioinformatics_Stronghold/HAMM/HAMM.py) |
-| iprb | Mendel's First Law                  | [Link](https://rosalind.info/problems/iprb/)  | [Link](Bioinformatics_Stronghold/IPRB/IPRB.py) |
-| prot | Translating RNA into Protein        | [Link](https://rosalind.info/problems/prot/)   | [Link](Bioinformatics_Stronghold/PROT/PROT.py) |
-| subs | Finding a Motif in DNA              | [Link](https://rosalind.info/problems/subs/)  | [Link](Bioinformatics_Stronghold/SUBS/SUBS.py) |
-| cons | Consensus and Profile               | [Link](https://rosalind.info/problems/cons/)  | [Link](Bioinformatics_Stronghold/CONS/CONS.py) |
-| fibd | Mortal Fibonacci Rabbits           | [Link](https://rosalind.info/problems/fibd/)  | [Link](Bioinformatics_Stronghold/FIBD/FIBD.py) |
-| perm | Enumerating Gene Orders             | [Link](https://rosalind.info/problems/perm/)  | [Link](Bioinformatics_Stronghold/PERM/PERM.py) |
-| prtm | Calculating Protein Mass            | [Link](https://rosalind.info/problems/prtm/)  | [Link](Bioinformatics_Stronghold/PRTM/PRTM.py) |
-| revp | Locating Restriction Sites          | [Link](https://rosalind.info/problems/revp/)  | [Link](Bioinformatics_Stronghold/REVP/REVP.py) |
-| grph | Overlap Graphs                      | [Link](https://rosalind.info/problems/grph/)  | [Link](Bioinformatics_Stronghold/GRPH/GRPH.py) |
-| iev  | Calculating Expected Offspring      | [Link](https://rosalind.info/problems/iev/)   | [Link](Bioinformatics_Stronghold/IEV/IEV.py)   |
-| lcsm | Finding a Shared Motif              | [Link](https://rosalind.info/problems/lcsm/)  | [Link](Bioinformatics_Stronghold/LCSM/LCSM.py) |
-| lia  | Independent Alleles                 | [Link](https://rosalind.info/problems/lia/)   | [Link](Bioinformatics_Stronghold/LIA/LIA.py)   |
-| mprt | Finding a Protein Motif             | [Link](https://rosalind.info/problems/mprt/)  | [Link](Bioinformatics_Stronghold/MPRT/MPRT.py) |
-| mrna | Inferring mRNA from Protein         | [Link](https://rosalind.info/problems/mrna/)  | [Link](Bioinformatics_Stronghold/MRNA/MRNA.py) |
-| orf  | Open Reading Frames                | [Link](https://rosalind.info/problems/orf/)   | [Link](Bioinformatics_Stronghold/ORF/ORF.py)   |
-| splc | RNA Splicing                        | [Link](https://rosalind.info/problems/splc/)  | [Link](Bioinformatics_Stronghold/SPLC/SPLC.py) |
-| lexf | Enumerating k-mers Lexicographically| [Link](https://rosalind.info/problems/lexf/)  | [Link](Bioinformatics_Stronghold/LEXF/LEXF.py) |
-| prob | Introduction to Random Strings       | [Link](https://rosalind.info/problems/prob/)  | [Link](Bioinformatics_Stronghold/PROB/PROB.py) |
-| sign | Enumerating Oriented Gene Orderings | [Link](https://rosalind.info/problems/sign/)  | [Link](Bioinformatics_Stronghold/SIGN/SIGN.py) |
-| lgis | Longest Increasing Subsequence      | [Link](https://rosalind.info/problems/lgis/)  | [Link](Bioinformatics_Stronghold/LGIS/LGIS.py) |
-| long | Genome Assembly as Shortest Superstring | [Link](https://rosalind.info/problems/long/)  | [Link](Bioinformatics_Stronghold/LONG/LONG.py) |
-| pmch | Perfect Matchings and RNA Secondary Structures | [Link](https://rosalind.info/problems/pmch/)  | [Link](Bioinformatics_Stronghold/PMCH/PMCH.py) |
-| pper | Partial Permutations                | [Link](https://rosalind.info/problems/pper/)  | [Link](Bioinformatics_Stronghold/PPER/PPER.py) |
-| sseq | Finding a Spliced Motif             | [Link](https://rosalind.info/problems/sseq/)  | [Link](Bioinformatics_Stronghold/SSEQ/SSEQ.py) |
-| tran | Transitions and Transversions       | [Link](https://rosalind.info/problems/tran/)  | [Link](Bioinformatics_Stronghold/TRAN/TRAN.py) |
-| tree | Completing a Tree                   | [Link](https://rosalind.info/problems/tree/)  | [Link](Bioinformatics_Stronghold/TREE/TREE.py) |
-| cat  | Catalan Numbers and RNA Secondary Structures | [Link](https://rosalind.info/problems/cat/)   | [Link](Bioinformatics_Stronghold/CAT/CAT.py)   |
-| corr | Error Correction in Reads          | [Link](https://rosalind.info/problems/corr/)  | [Link](Bioinformatics_Stronghold/CORR/CORR.py) |
-| inod | Counting Phylogenetic Ancestors    | [Link](https://rosalind.info/problems/inod/)  | [Link](Bioinformatics_Stronghold/INOD/INOD.py) |
-| kmer | k-Mer Composition                  | [Link](https://rosalind.info/problems/kmer/)  | [Link](Bioinformatics_Stronghold/KMER/KMER.py) |
-| kmp  | Speeding Up Motif Finding          | [Link](https://rosalind.info/problems/kmp/)   | [Link](Bioinformatics_Stronghold/KMP/KMP.py)   |
-| lcsq | Finding a Shared Spliced Motif      | [Link](https://rosalind.info/problems/lcsq/)  | [Link](Bioinformatics_Stronghold/LCSQ/LCSQ.py) |
-| lexv | Ordering Strings of Varying Length Lexicographically | [Link](https://rosalind.info/problems/lexv/)  | [Link](Bioinformatics_Stronghold/LEXV/LEXV.py) |
-| mmch | Maximum Matchings and RNA Secondary Structures | [Link](https://rosalind.info/problems/mmch/)  | [Link](Bioinformatics_Stronghold/MMCH/MMCH.py) |
-| pdst | Creating a Distance Matrix          | [Link](https://rosalind.info/problems/pdst/)  | [Link](Bioinformatics_Stronghold/PDST/PDST.py) |
-| rear | Reversal Distance                   | [Link](https://rosalind.info/problems/rear/)  | [Link](Bioinformatics_Stronghold/REAR/REAR.py) |
-| rstr | Matching Random Motifs             | [Link](https://rosalind.info/problems/rstr/)  | [Link](Bioinformatics_Stronghold/RSTR/RSTR.py) |
-| sset | Counting Subsets                    | [Link](https://rosalind.info/problems/sset/)  | [Link](Bioinformatics_Stronghold/SSET/SSET.py) |
-| aspc | Introduction to Alternative Splicing | [Link](https://rosalind.info/problems/aspc/)  | [Link](Bioinformatics_Stronghold/ASPC/ASPC.py) |
-| edit | Edit Distance                       | [Link](https://rosalind.info/problems/edit/)  | [Link](Bioinformatics_Stronghold/EDIT/EDIT.py) |
-| eval | Expected Number of Restriction Sites | [Link](https://rosalind.info/problems/eval/)  | [Link](Bioinformatics_Stronghold/EVAL/EVAL.py) |
-| motz | Motzkin Numbers and RNA Secondary Structures | [Link](https://rosalind.info/problems/motz/)  | [Link](Bioinformatics_Stronghold/MOTZ/MOTZ.py) |
-| nwck | Distances in Trees                  | [Link](https://rosalind.info/problems/nwck/)  | [Link](Bioinformatics_Stronghold/NWCK/NWCK.py) |
-| scsp | Interleaving Two Motifs             | [Link](https://rosalind.info/problems/scsp/)  | [Link](Bioinformatics_Stronghold/SCSP/SCSP.py) |
-| seto | Introduction to Set Operations      | [Link](https://rosalind.info/problems/seto/)  | [Link](Bioinformatics_Stronghold/SETO/SETO.py) |
-| sort | Sorting by Reversals                | [Link](https://rosalind.info/problems/sort/)  | [Link](Bioinformatics_Stronghold/SORT/SORT.py) |
-| spec | Inferring Protein from Spectrum     | [Link](https://rosalind.info/problems/spec/)  | [Link](Bioinformatics_Stronghold/SPEC/SPEC.py) |
-| trie | Introduction to Pattern Matching    | [Link](https://rosalind.info/problems/trie/)  | [Link](Bioinformatics_Stronghold/TRIE/TRIE.py) |
-| conv | Comparing Spectra with the Spectral Convolution | [Link](https://rosalind.info/problems/conv/)  | [Link](Bioinformatics_Stronghold/CONV/CONV.py) |
-| ctbl | Creating a Character Table         | [Link](https://rosalind.info/problems/ctbl/)  | [Link](Bioinformatics_Stronghold/CTBL/CTBL.py) |
-| dbru | Constructing a De Bruijn Graph      | [Link](https://rosalind.info/problems/dbru/)  | [Link](Bioinformatics_Stronghold/DBRU/DBRU.py) |
-| edta | Edit Distance Alignment            | [Link](https://rosalind.info/problems/edta/)  | [Link](Bioinformatics_Stronghold/EDTA/EDTA.py) |
-| full | Inferring Peptide from Full Spectrum | [Link](https://rosalind.info/problems/full/)  | [Link](Bioinformatics_Stronghold/FULL/FULL.py) |
-| indc | Independent Segregation of Chromosomes | [Link](https://rosalind.info/problems/indc/)  | [Link](Bioinformatics_Stronghold/INDC/INDC.py) |
-| itwv | Finding Disjoint Motifs in a Gene   | [Link](https://rosalind.info/problems/itwv/)  | [Link](Bioinformatics_Stronghold/ITWV/ITWV.py) |
-| lrep | Finding the Longest Multiple Repeat | [Link](https://rosalind.info/problems/lrep/)  | [Link](Bioinformatics_Stronghold/LREP/LREP.py) |
-| nkew | Newick Format with Edge Weights     | [Link](https://rosalind.info/problems/nkew/)  | [Link](Bioinformatics_Stronghold/NKEW/NKEW.py) |
-| rnas | Wobble Bonding and RNA Secondary Structures | [Link](https://rosalind.info/problems/rnas/)  | [Link](Bioinformatics_Stronghold/RNAS/RNAS.py) |
-| afrq | Counting Disease Carriers           | [Link](https://rosalind.info/problems/afrq/)  | [Link](Bioinformatics_Stronghold/AFRQ/AFRQ.py) |
-| cstr | Creating a Character Table from Genetic Strings | [Link](https://rosalind.info/problems/cstr/)  | [Link](Bioinformatics_Stronghold/CSTR/CSTR.py) |
-| ctea | Counting Optimal Alignments         | [Link](https://rosalind.info/problems/ctea/)  | [Link](Bioinformatics_Stronghold/CTEA/CTEA.py) |
-| cunr | Counting Unrooted Binary Trees      | [Link](https://rosalind.info/problems/cunr/)  | [Link](Bioinformatics_Stronghold/CUNR/CUNR.py) |
-| glob | Global Alignment with Scoring Matrix | [Link](https://rosalind.info/problems/glob/)  | [Link](Bioinformatics_Stronghold/GLOB/GLOB.py) |
-| pcov | Genome Assembly with Perfect Coverage | [Link](https://rosalind.info/problems/pcov/)  | [Link](Bioinformatics_Stronghold/PCOV/PCOV.py) |
-| prsm | Matching a Spectrum to a Protein    | [Link](https://rosalind.info/problems/prsm/)  | [Link](Bioinformatics_Stronghold/PRSM/PRSM.py) |
-| qrt  | Quartets                            | [Link](https://rosalind.info/problems/qrt/)   | [Link](Bioinformatics_Stronghold/QRT/QRT.py)   |
-| sgra | Using the Spectrum Graph to Infer Peptides | [Link](https://rosalind.info/problems/sgra/)  | [Link](Bioinformatics_Stronghold/SGRA/SGRA.py) |
-| suff | Encoding Suffix Trees               | [Link](https://rosalind.info/problems/suff/)  | [Link](Bioinformatics_Stronghold/SUFF/SUFF.py) |
-| chbp | Character-Based Phylogeny            | [Link](https://rosalind.info/problems/chbp/)  | [Link](Bioinformatics_Stronghold/CHBP/CHBP.py) |
-| cntq | Counting Quartets                   | [Link](https://rosalind.info/problems/cntq/)  | [Link](Bioinformatics_Stronghold/CNTQ/CNTQ.py) |
-| eubt | Enumerating Unrooted Binary Trees   | [Link](https://rosalind.info/problems/eubt/)  | [Link](Bioinformatics_Stronghold/EUBT/EUBT.py) |
-| gasm | Genome Assembly Using Reads         | [Link](https://rosalind.info/problems/gasm/)  | [Link](Bioinformatics_Stronghold/GASM/GASM.py) |
-| gcon | Global Alignment with Constant Gap Penalty | [Link](https://rosalind.info/problems/gcon/)  | [Link](Bioinformatics_Stronghold/GCON/GCON.py) |
-| ling | Linguistic Complexity of a Genome   | [Link](https://rosalind.info/problems/ling/)  | [Link](Bioinformatics_Stronghold/LING/LING.py) |
-| loca | Local Alignment with Scoring Matrix | [Link](https://rosalind.info/problems/loca/)  | [Link](Bioinformatics_Stronghold/LOCA/LOCA.py) |
-| mend | Inferring Genotype from a Pedigree  | [Link](https://rosalind.info/problems/mend/)  | [Link](Bioinformatics_Stronghold/MEND/MEND.py) |
-| mgap | Maximizing the Gap Symbols of an Optimal Alignment | [Link](https://rosalind.info/problems/mgap/)  | [Link](Bioinformatics_Stronghold/MGAP/MGAP.py) |
-| mrep | Identifying Maximal Repeats         | [Link](https://rosalind.info/problems/mrep/)  | [Link](Bioinformatics_Stronghold/MREP/MREP.py) |
-| mult | Multiple Alignment                 | [Link](https://rosalind.info/problems/mult/)  | [Link](Bioinformatics_Stronghold/MULT/MULT.py) |
-| pdpl | Creating a Restriction Map          | [Link](https://rosalind.info/problems/pdpl/)  | [Link](Bioinformatics_Stronghold/PDPL/PDPL.py) |
-| root | Counting Rooted Binary Trees        | [Link](https://rosalind.info/problems/root/)  | [Link](Bioinformatics_Stronghold/ROOT/ROOT.py) |
-| sexl | Sex-Linked Inheritance              | [Link](https://rosalind.info/problems/sexl/)  | [Link](Bioinformatics_Stronghold/SEXL/SEXL.py) |
-| sptd | Phylogeny Comparison with Split Distance | [Link](https://rosalind.info/problems/sptd/)  | [Link](Bioinformatics_Stronghold/SPTD/SPTD.py) |
-| wfmd | The Wright-Fisher Model of Genetic Drift | [Link](https://rosalind.info/problems/wfmd/)  | [Link](Bioinformatics_Stronghold/WFMD/WFMD.py) |
-| alph | Alignment-Based Phylogeny           | [Link](https://rosalind.info/problems/alph/)  | [Link](Bioinformatics_Stronghold/ALPH/ALPH.py) |
-| asmq | Assessing Assembly Quality with N50 and N75 | [Link](https://rosalind.info/problems/asmq/)  | [Link](Bioinformatics_Stronghold/ASMQ/ASMQ.py) |
-| cset | Fixing an Inconsistent Character Set | [Link](https://rosalind.info/problems/cset/)  | [Link](Bioinformatics_Stronghold/CSET/CSET.py) |
-| ebin | Wright-Fisher's Expected Behavior   | [Link](https://rosalind.info/problems/ebin/)  | [Link](Bioinformatics_Stronghold/EBIN/EBIN.py) |
-| foun | The Founder Effect and Genetic Drift | [Link](https://rosalind.info/problems/foun/)  | [Link](Bioinformatics_Stronghold/FOUN/FOUN.py) |
-| gaff | Global Alignment with Scoring Matrix and Affine Gap Penalty | [Link](https://rosalind.info/problems/gaff/)  | [Link](Bioinformatics_Stronghold/GAFF/GAFF.py) |
-| grep | Genome Assembly with Perfect Coverage and Repeats | [Link](https://rosalind.info/problems/grep/)  | [Link](Bioinformatics_Stronghold/GREP/GREP.py) |
-| oap  | Overlap Alignment                   | [Link](https://rosalind.info/problems/oap/)   | [Link](Bioinformatics_Stronghold/OAP/OAP.py)   |
-| qrtd | Quartet Distance                    | [Link](https://rosalind.info/problems/qrtd/)  | [Link](Bioinformatics_Stronghold/QRTD/QRTD.py) |
-| sims | Finding a Motif with Modifications  | [Link](https://rosalind.info/problems/sims/)  | [Link](Bioinformatics_Stronghold/SIMS/SIMS.py) |
-| smgb | Semiglobal Alignment                | [Link](https://rosalind.info/problems/smgb/)  | [Link](Bioinformatics_Stronghold/SMGB/SMGB.py) |
-| ksim | Finding All Similar Motifs          | [Link](https://rosalind.info/problems/ksim/)  | [Link](Bioinformatics_Stronghold/KSIM/KSIM.py) |
-| laff | Local Alignment with Affine Gap Penalty | [Link](https://rosalind.info/problems/laff/)  | [Link](Bioinformatics_Stronghold/LAFF/LAFF.py) |
-| osym | Isolating Symbols in Alignments     | [Link](https://rosalind.info/problems/osym/)  | [Link](Bioinformatics_Stronghold/OSYM/OSYM.py) |
-| rsub | Identifying Reversing Substitutions | [Link](https://rosalind.info/problems/rsub/)  | [Link](Bioinformatics_Stronghold/RSUB/RSUB.py) |
+| DNA  | Counting DNA Nucleotides            | [Link](https://rosalind.info/problems/dna/)   | [Link](Bioinformatics_Stronghold/DNA/DNA.py)   |
+| RNA  | Transcribing DNA into RNA           | [Link](https://rosalind.info/problems/rna/)   | [Link](Bioinformatics_Stronghold/RNA/RNA.py)   |
+| REVC | Complementing a Strand of DNA       | [Link](https://rosalind.info/problems/revc/)  | [Link](Bioinformatics_Stronghold/REVC/REVC.py) |
+| FIB  | Rabbits and Recurrence Relations   | [Link](https://rosalind.info/problems/fib/)   | [Link](Bioinformatics_Stronghold/FIB/FIB.py)   |
+| GC   | Computing GC Content                | [Link](https://rosalind.info/problems/gc/)    | [Link](Bioinformatics_Stronghold/GC/GC.py)     |
+| HAMM | Counting Point Mutations            | [Link](https://rosalind.info/problems/hamm/)  | [Link](Bioinformatics_Stronghold/HAMM/HAMM.py) |
+| IPRB | Mendel's First Law                  | [Link](https://rosalind.info/problems/iprb/)  | [Link](Bioinformatics_Stronghold/IPRB/IPRB.py) |
+| PROT | Translating RNA into Protein        | [Link](https://rosalind.info/problems/prot/)   | [Link](Bioinformatics_Stronghold/PROT/PROT.py) |
+| SUBS | Finding a Motif in DNA              | [Link](https://rosalind.info/problems/subs/)  | [Link](Bioinformatics_Stronghold/SUBS/SUBS.py) |
+| CONS | Consensus and Profile               | [Link](https://rosalind.info/problems/cons/)  | [Link](Bioinformatics_Stronghold/CONS/CONS.py) |
+| FIBD | Mortal Fibonacci Rabbits           | [Link](https://rosalind.info/problems/fibd/)  | [Link](Bioinformatics_Stronghold/FIBD/FIBD.py) |
+| PERM | Enumerating Gene Orders             | [Link](https://rosalind.info/problems/perm/)  | [Link](Bioinformatics_Stronghold/PERM/PERM.py) |
+| PRTM | Calculating Protein Mass            | [Link](https://rosalind.info/problems/prtm/)  | [Link](Bioinformatics_Stronghold/PRTM/PRTM.py) |
+| REVP | Locating Restriction Sites          | [Link](https://rosalind.info/problems/revp/)  | [Link](Bioinformatics_Stronghold/REVP/REVP.py) |
+| GRPH | Overlap Graphs                      | [Link](https://rosalind.info/problems/grph/)  | [Link](Bioinformatics_Stronghold/GRPH/GRPH.py) |
+| IEV  | Calculating Expected Offspring      | [Link](https://rosalind.info/problems/iev/)   | [Link](Bioinformatics_Stronghold/IEV/IEV.py)   |
+| LCSM | Finding a Shared Motif              | [Link](https://rosalind.info/problems/lcsm/)  | [Link](Bioinformatics_Stronghold/LCSM/LCSM.py) |
+| LIA  | Independent Alleles                 | [Link](https://rosalind.info/problems/lia/)   | [Link](Bioinformatics_Stronghold/LIA/LIA.py)   |
+| MPRT | Finding a Protein Motif             | [Link](https://rosalind.info/problems/mprt/)  | [Link](Bioinformatics_Stronghold/MPRT/MPRT.py) |
+| MRNA | Inferring mRNA from Protein         | [Link](https://rosalind.info/problems/mrna/)  | [Link](Bioinformatics_Stronghold/MRNA/MRNA.py) |
+| ORF  | Open Reading Frames                | [Link](https://rosalind.info/problems/orf/)   | [Link](Bioinformatics_Stronghold/ORF/ORF.py)   |
+| SPLC | RNA Splicing                        | [Link](https://rosalind.info/problems/splc/)  | [Link](Bioinformatics_Stronghold/SPLC/SPLC.py) |
+| LEXF | Enumerating k-mers Lexicographically| [Link](https://rosalind.info/problems/lexf/)  | [Link](Bioinformatics_Stronghold/LEXF/LEXF.py) |
+| PROB | Introduction to Random Strings       | [Link](https://rosalind.info/problems/prob/)  | [Link](Bioinformatics_Stronghold/PROB/PROB.py) |
+| SIGN | Enumerating Oriented Gene Orderings | [Link](https://rosalind.info/problems/sign/)  | [Link](Bioinformatics_Stronghold/SIGN/SIGN.py) |
+| LGIS | Longest Increasing Subsequence      | [Link](https://rosalind.info/problems/lgis/)  | [Link](Bioinformatics_Stronghold/LGIS/LGIS.py) |
+| LONG | Genome Assembly as Shortest Superstring | [Link](https://rosalind.info/problems/long/)  | [Link](Bioinformatics_Stronghold/LONG/LONG.py) |
+| PMCH | Perfect Matchings and RNA Secondary Structures | [Link](https://rosalind.info/problems/pmch/)  | [Link](Bioinformatics_Stronghold/PMCH/PMCH.py) |
+| PPER | Partial Permutations                | [Link](https://rosalind.info/problems/pper/)  | [Link](Bioinformatics_Stronghold/PPER/PPER.py) |
+| SSEQ | Finding a Spliced Motif             | [Link](https://rosalind.info/problems/sseq/)  | [Link](Bioinformatics_Stronghold/SSEQ/SSEQ.py) |
+| TRAN | Transitions and Transversions       | [Link](https://rosalind.info/problems/tran/)  | [Link](Bioinformatics_Stronghold/TRAN/TRAN.py) |
+| TREE | Completing a Tree                   | [Link](https://rosalind.info/problems/tree/)  | [Link](Bioinformatics_Stronghold/TREE/TREE.py) |
+| CAT  | Catalan Numbers and RNA Secondary Structures | [Link](https://rosalind.info/problems/cat/)   | [Link](Bioinformatics_Stronghold/CAT/CAT.py)   |
+| CORR | Error Correction in Reads          | [Link](https://rosalind.info/problems/corr/)  | [Link](Bioinformatics_Stronghold/CORR/CORR.py) |
+| INOD | Counting Phylogenetic Ancestors    | [Link](https://rosalind.info/problems/inod/)  | [Link](Bioinformatics_Stronghold/INOD/INOD.py) |
+| KMER | k-Mer Composition                  | [Link](https://rosalind.info/problems/kmer/)  | [Link](Bioinformatics_Stronghold/KMER/KMER.py) |
+| KMP  | Speeding Up Motif Finding          | [Link](https://rosalind.info/problems/kmp/)   | [Link](Bioinformatics_Stronghold/KMP/KMP.py)   |
+| LCSQ | Finding a Shared Spliced Motif      | [Link](https://rosalind.info/problems/lcsq/)  | [Link](Bioinformatics_Stronghold/LCSQ/LCSQ.py) |
+| LEXV | Ordering Strings of Varying Length Lexicographically | [Link](https://rosalind.info/problems/lexv/)  | [Link](Bioinformatics_Stronghold/LEXV/LEXV.py) |
+| MMCH | Maximum Matchings and RNA Secondary Structures | [Link](https://rosalind.info/problems/mmch/)  | [Link](Bioinformatics_Stronghold/MMCH/MMCH.py) |
+| PDST | Creating a Distance Matrix          | [Link](https://rosalind.info/problems/pdst/)  | [Link](Bioinformatics_Stronghold/PDST/PDST.py) |
+| REAR | Reversal Distance                   | [Link](https://rosalind.info/problems/rear/)  | [Link](Bioinformatics_Stronghold/REAR/REAR.py) |
+| RSTR | Matching Random Motifs             | [Link](https://rosalind.info/problems/rstr/)  | [Link](Bioinformatics_Stronghold/RSTR/RSTR.py) |
+| SSET | Counting Subsets                    | [Link](https://rosalind.info/problems/sset/)  | [Link](Bioinformatics_Stronghold/SSET/SSET.py) |
+| ASPC | Introduction to Alternative Splicing | [Link](https://rosalind.info/problems/aspc/)  | [Link](Bioinformatics_Stronghold/ASPC/ASPC.py) |
+| EDIT | Edit Distance                       | [Link](https://rosalind.info/problems/edit/)  | [Link](Bioinformatics_Stronghold/EDIT/EDIT.py) |
+| EVAL | Expected Number of Restriction Sites | [Link](https://rosalind.info/problems/eval/)  | [Link](Bioinformatics_Stronghold/EVAL/EVAL.py) |
+| MOTZ | Motzkin Numbers and RNA Secondary Structures | [Link](https://rosalind.info/problems/motz/)  | [Link](Bioinformatics_Stronghold/MOTZ/MOTZ.py) |
+| NWCK | Distances in Trees                  | [Link](https://rosalind.info/problems/nwck/)  | [Link](Bioinformatics_Stronghold/NWCK/NWCK.py) |
+| SCSP | Interleaving Two Motifs             | [Link](https://rosalind.info/problems/scsp/)  | [Link](Bioinformatics_Stronghold/SCSP/SCSP.py) |
+| SETO | Introduction to Set Operations      | [Link](https://rosalind.info/problems/seto/)  | [Link](Bioinformatics_Stronghold/SETO/SETO.py) |
+| SORT | Sorting by Reversals                | [Link](https://rosalind.info/problems/sort/)  | [Link](Bioinformatics_Stronghold/SORT/SORT.py) |
+| SPEC | Inferring Protein from Spectrum     | [Link](https://rosalind.info/problems/spec/)  | [Link](Bioinformatics_Stronghold/SPEC/SPEC.py) |
+| TRIE | Introduction to Pattern Matching    | [Link](https://rosalind.info/problems/trie/)  | [Link](Bioinformatics_Stronghold/TRIE/TRIE.py) |
+| CONV | Comparing Spectra with the Spectral Convolution | [Link](https://rosalind.info/problems/conv/)  | [Link](Bioinformatics_Stronghold/CONV/CONV.py) |
+| CTBL | Creating a Character Table         | [Link](https://rosalind.info/problems/ctbl/)  | [Link](Bioinformatics_Stronghold/CTBL/CTBL.py) |
+| DBRU | Constructing a De Bruijn Graph      | [Link](https://rosalind.info/problems/dbru/)  | [Link](Bioinformatics_Stronghold/DBRU/DBRU.py) |
+| EDTA | Edit Distance Alignment            | [Link](https://rosalind.info/problems/edta/)  | [Link](Bioinformatics_Stronghold/EDTA/EDTA.py) |
+| FULL | Inferring Peptide from Full Spectrum | [Link](https://rosalind.info/problems/full/)  | [Link](Bioinformatics_Stronghold/FULL/FULL.py) |
+| INDC | Independent Segregation of Chromosomes | [Link](https://rosalind.info/problems/indc/)  | [Link](Bioinformatics_Stronghold/INDC/INDC.py) |
+| ITWV | Finding Disjoint Motifs in a Gene   | [Link](https://rosalind.info/problems/itwv/)  | [Link](Bioinformatics_Stronghold/ITWV/ITWV.py) |
+| LREP | Finding the Longest Multiple Repeat | [Link](https://rosalind.info/problems/lrep/)  | [Link](Bioinformatics_Stronghold/LREP/LREP.py) |
+| NKEW | Newick Format with Edge Weights     | [Link](https://rosalind.info/problems/nkew/)  | [Link](Bioinformatics_Stronghold/NKEW/NKEW.py) |
+| RNAS | Wobble Bonding and RNA Secondary Structures | [Link](https://rosalind.info/problems/rnas/)  | [Link](Bioinformatics_Stronghold/RNAS/RNAS.py) |
+| AFRQ | Counting Disease Carriers           | [Link](https://rosalind.info/problems/afrq/)  | [Link](Bioinformatics_Stronghold/AFRQ/AFRQ.py) |
+| CSTR | Creating a Character Table from Genetic Strings | [Link](https://rosalind.info/problems/cstr/)  | [Link](Bioinformatics_Stronghold/CSTR/CSTR.py) |
+| CTEA | Counting Optimal Alignments         | [Link](https://rosalind.info/problems/ctea/)  | [Link](Bioinformatics_Stronghold/CTEA/CTEA.py) |
+| CUNR | Counting Unrooted Binary Trees      | [Link](https://rosalind.info/problems/cunr/)  | [Link](Bioinformatics_Stronghold/CUNR/CUNR.py) |
+| GLOB | Global Alignment with Scoring Matrix | [Link](https://rosalind.info/problems/glob/)  | [Link](Bioinformatics_Stronghold/GLOB/GLOB.py) |
+| PCOV | Genome Assembly with Perfect Coverage | [Link](https://rosalind.info/problems/pcov/)  | [Link](Bioinformatics_Stronghold/PCOV/PCOV.py) |
+| PRSM | Matching a Spectrum to a Protein    | [Link](https://rosalind.info/problems/prsm/)  | [Link](Bioinformatics_Stronghold/PRSM/PRSM.py) |
+| QRT  | Quartets                            | [Link](https://rosalind.info/problems/qrt/)   | [Link](Bioinformatics_Stronghold/QRT/QRT.py)   |
+| SGRA | Using the Spectrum Graph to Infer Peptides | [Link](https://rosalind.info/problems/sgra/)  | [Link](Bioinformatics_Stronghold/SGRA/SGRA.py) |
+| SUFF | Encoding Suffix Trees               | [Link](https://rosalind.info/problems/suff/)  | [Link](Bioinformatics_Stronghold/SUFF/SUFF.py) |
+| CHBP | Character-Based Phylogeny            | [Link](https://rosalind.info/problems/chbp/)  | [Link](Bioinformatics_Stronghold/CHBP/CHBP.py) |
+| CNTQ | Counting Quartets                   | [Link](https://rosalind.info/problems/cntq/)  | [Link](Bioinformatics_Stronghold/CNTQ/CNTQ.py) |
+| EUBT | Enumerating Unrooted Binary Trees   | [Link](https://rosalind.info/problems/eubt/)  | [Link](Bioinformatics_Stronghold/EUBT/EUBT.py) |
+| GASM | Genome Assembly Using Reads         | [Link](https://rosalind.info/problems/gasm/)  | [Link](Bioinformatics_Stronghold/GASM/GASM.py) |
+| GCON | Global Alignment with Constant Gap Penalty | [Link](https://rosalind.info/problems/gcon/)  | [Link](Bioinformatics_Stronghold/GCON/GCON.py) |
+| LING | Linguistic Complexity of a Genome   | [Link](https://rosalind.info/problems/ling/)  | [Link](Bioinformatics_Stronghold/LING/LING.py) |
+| LOCA | Local Alignment with Scoring Matrix | [Link](https://rosalind.info/problems/loca/)  | [Link](Bioinformatics_Stronghold/LOCA/LOCA.py) |
+| MEND | Inferring Genotype from a Pedigree  | [Link](https://rosalind.info/problems/mend/)  | [Link](Bioinformatics_Stronghold/MEND/MEND.py) |
+| MGAP | Maximizing the Gap Symbols of an Optimal Alignment | [Link](https://rosalind.info/problems/mgap/)  | [Link](Bioinformatics_Stronghold/MGAP/MGAP.py) |
+| MREP | Identifying Maximal Repeats         | [Link](https://rosalind.info/problems/mrep/)  | [Link](Bioinformatics_Stronghold/MREP/MREP.py) |
+| MULT | Multiple Alignment                 | [Link](https://rosalind.info/problems/mult/)  | [Link](Bioinformatics_Stronghold/MULT/MULT.py) |
+| PDPL | Creating a Restriction Map          | [Link](https://rosalind.info/problems/pdpl/)  | [Link](Bioinformatics_Stronghold/PDPL/PDPL.py) |
+| ROOT | Counting Rooted Binary Trees        | [Link](https://rosalind.info/problems/root/)  | [Link](Bioinformatics_Stronghold/ROOT/ROOT.py) |
+| SEXL | Sex-Linked Inheritance              | [Link](https://rosalind.info/problems/sexl/)  | [Link](Bioinformatics_Stronghold/SEXL/SEXL.py) |
+| SPTD | Phylogeny Comparison with Split Distance | [Link](https://rosalind.info/problems/sptd/)  | [Link](Bioinformatics_Stronghold/SPTD/SPTD.py) |
+| WFMD | The Wright-Fisher Model of Genetic Drift | [Link](https://rosalind.info/problems/wfmd/)  | [Link](Bioinformatics_Stronghold/WFMD/WFMD.py) |
+| ALPH | Alignment-Based Phylogeny           | [Link](https://rosalind.info/problems/alph/)  | [Link](Bioinformatics_Stronghold/ALPH/ALPH.py) |
+| ASMQ | Assessing Assembly Quality with N50 and N75 | [Link](https://rosalind.info/problems/asmq/)  | [Link](Bioinformatics_Stronghold/ASMQ/ASMQ.py) |
+| CSET | Fixing an Inconsistent Character Set | [Link](https://rosalind.info/problems/cset/)  | [Link](Bioinformatics_Stronghold/CSET/CSET.py) |
+| EBIN | Wright-Fisher's Expected Behavior   | [Link](https://rosalind.info/problems/ebin/)  | [Link](Bioinformatics_Stronghold/EBIN/EBIN.py) |
+| FOUN | The Founder Effect and Genetic Drift | [Link](https://rosalind.info/problems/foun/)  | [Link](Bioinformatics_Stronghold/FOUN/FOUN.py) |
+| GAFF | Global Alignment with Scoring Matrix and Affine Gap Penalty | [Link](https://rosalind.info/problems/gaff/)  | [Link](Bioinformatics_Stronghold/GAFF/GAFF.py) |
+| GREP | Genome Assembly with Perfect Coverage and Repeats | [Link](https://rosalind.info/problems/grep/)  | [Link](Bioinformatics_Stronghold/GREP/GREP.py) |
+| OAP  | Overlap Alignment                   | [Link](https://rosalind.info/problems/oap/)   | [Link](Bioinformatics_Stronghold/OAP/OAP.py)   |
+| QRTD | Quartet Distance                    | [Link](https://rosalind.info/problems/qrtd/)  | [Link](Bioinformatics_Stronghold/QRTD/QRTD.py) |
+| SIMS | Finding a Motif with Modifications  | [Link](https://rosalind.info/problems/sims/)  | [Link](Bioinformatics_Stronghold/SIMS/SIMS.py) |
+| SMGB | Semiglobal Alignment                | [Link](https://rosalind.info/problems/smgb/)  | [Link](Bioinformatics_Stronghold/SMGB/SMGB.py) |
+| KSIM | Finding All Similar Motifs          | [Link](https://rosalind.info/problems/ksim/)  | [Link](Bioinformatics_Stronghold/KSIM/KSIM.py) |
+| LAFF | Local Alignment with Affine Gap Penalty | [Link](https://rosalind.info/problems/laff/)  | [Link](Bioinformatics_Stronghold/LAFF/LAFF.py) |
+| OSYM | Isolating Symbols in Alignments     | [Link](https://rosalind.info/problems/osym/)  | [Link](Bioinformatics_Stronghold/OSYM/OSYM.py) |
+| RSUB | Identifying Reversing Substitutions | [Link](https://rosalind.info/problems/rsub/)  | [Link](Bioinformatics_Stronghold/RSUB/RSUB.py) |
+
 
 
