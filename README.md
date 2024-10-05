@@ -43,42 +43,42 @@ Short description of all the tasks
 
 ## Algorithmic Heights
 
-| Code | Description                         | Rosalind Link                                 | Solution Link                                 |
-|------|-------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| FIBO | Fibonacci Numbers                  | [Link](https://rosalind.info/problems/fibo/) | [Link](Algorithms_Heights/FIBO/FIBO.py) |
-| BINS | Binary Search                      | [Link](https://rosalind.info/problems/bins/) | [Link](Algorithms_Heights/BINS/BINS.py) |
-| DEG  | Degree Array                       | [Link](https://rosalind.info/problems/deg/)  | [Link](Algorithms_Heights/DEG/DEG.py)  |
-| INS  | Insertion Sort                     | [Link](https://rosalind.info/problems/ins/)  | [Link](Algorithms_Heights/INS/INS.py)  |
-| DDEG | Double-Degree Array                | [Link](https://rosalind.info/problems/ddeg/) | [Link](Algorithms_Heights/DDEG/DDEG.py) |
-| MAJ  | Majority Element                   | [Link](https://rosalind.info/problems/maj/)  | [Link](Algorithms_Heights/MAJ/MAJ.py)  |
-| MER  | Merge Two Sorted Arrays            | [Link](https://rosalind.info/problems/mer/)  | [Link](Algorithms_Heights/MER/MER.py)  |
-| 2SUM | 2SUM                              | [Link](https://rosalind.info/problems/2sum/) | [Link](Algorithms_Heights/2SUM/2SUM.py) |
-| BFS  | Breadth-First Search               | [Link](https://rosalind.info/problems/bfs/)  | [Link](Algorithms_Heights/BFS/BFS.py)  |
-| CC   | Connected Components              | [Link](https://rosalind.info/problems/cc/)   | [Link](Algorithms_Heights/CC/CC.py)   |
-| MS   | Merge Sort                         | [Link](https://rosalind.info/problems/ms/)   | [Link](Algorithms_Heights/MS/MS.py)   |
-| 3SUM | 3SUM                              | [Link](https://rosalind.info/problems/3sum/) | [Link](Algorithms_Heights/3SUM/3SUM.py) |
-| DIJ  | Dijkstra's Algorithm               | [Link](https://rosalind.info/problems/dij/)  | [Link](Algorithms_Heights/DIJ/DIJ.py)  |
-| INV  | Counting Inversions                | [Link](https://rosalind.info/problems/inv/)  | [Link](Algorithms_Heights/INV/INV.py)  |
-| SQ   | Square in a Graph                  | [Link](https://rosalind.info/problems/sq/)   | [Link](Algorithms_Heights/SQ/SQ.py)   |
-| HEA  | Building a Heap                    | [Link](https://rosalind.info/problems/hea/)  | [Link](Algorithms_Heights/HEA/HEA.py)  |
-| PAR  | 2-Way Partition                    | [Link](https://rosalind.info/problems/par/)  | [Link](Algorithms_Heights/PAR/PAR.py)  |
-| BIP  | Testing Bipartiteness              | [Link](https://rosalind.info/problems/bip/)  | [Link](Algorithms_Heights/BIP/BIP.py)  |
-| DAG  | Testing Acyclicity                 | [Link](https://rosalind.info/problems/dag/)  | [Link](Algorithms_Heights/DAG/DAG.py)  |
-| BF   | Bellman-Ford Algorithm             | [Link](https://rosalind.info/problems/bf/)   | [Link](Algorithms_Heights/BF/BF.py)   |
-| CTE  | Shortest Cycle Through a Given Edge | [Link](https://rosalind.info/problems/cte/)  | [Link](Algorithms_Heights/CTE/CTE.py)  |
-| HS   | Heap Sort                          | [Link](https://rosalind.info/problems/hs/)   | [Link](Algorithms_Heights/HS/HS.py)   |
-| PAR3 | 3-Way Partition                    | [Link](https://rosalind.info/problems/par3/) | [Link](Algorithms_Heights/PAR3/PAR3.py) |
-| MED  | Median                             | [Link](https://rosalind.info/problems/med/)  | [Link](Algorithms_Heights/MED/MED.py)  |
-| PS   | Partial Sort                        | [Link](https://rosalind.info/problems/ps/)   | [Link](Algorithms_Heights/PS/PS.py)   |
-| TS   | Topological Sorting                 | [Link](https://rosalind.info/problems/ts/)   | [Link](Algorithms_Heights/TS/TS.py)   |
-| HDAG | Hamiltonian Path in DAG            | [Link](https://rosalind.info/problems/hdag/) | [Link](Algorithms_Heights/HDAG/HDAG.py) |
-| NWC  | Negative Weight Cycle               | [Link](https://rosalind.info/problems/nwc/)  | [Link](Algorithms_Heights/NWC/NWC.py)  |
-| QS   | Quick Sort                          | [Link](https://rosalind.info/problems/qs/)   | [Link](Algorithms_Heights/QS/QS.py)   |
-| SCC  | Strongly Connected Components      | [Link](https://rosalind.info/problems/scc/)  | [Link](Algorithms_Heights/SCC/SCC.py)  |
-| 2SAT | 2-Satisfiability                   | [Link](https://rosalind.info/problems/2sat/) | [Link](Algorithms_Heights/2SAT/2SAT.py) |
-| GS   | General Sink                        | [Link](https://rosalind.info/problems/gs/)   | [Link](Algorithms_Heights/GS/GS.py)   |
-| SC   | Semi-Connected Graph               | [Link](https://rosalind.info/problems/sc/)   | [Link](Algorithms_Heights/SC/SC.py)   |
-| SDAG | Shortest Paths in DAG               | [Link](https://rosalind.info/problems/sdag/) | [Link]
+| Code | Description                         | Rosalind Link                                | Solution Link                                             |
+| ---- | ----------------------------------- | -------------------------------------------- | --------------------------------------------------------- |
+| FIBO | Fibonacci Numbers                   | [Link](https://rosalind.info/problems/fibo/) | [Link](Algoritmic_Heights/FIBO/FIBO.py)                   |
+| BINS | Binary Search                       | [Link](https://rosalind.info/problems/bins/) | [Link](Algoritmic_Heights/BINS/BINS.py)                   |
+| DEG  | Degree Array                        | [Link](https://rosalind.info/problems/deg/)  | [Link](Algoritmic_Heights/DEG/DEG.py)                     |
+| INS  | Insertion Sort                      | [Link](https://rosalind.info/problems/ins/)  | [Link](Algoritmic_Heights/INS/INS.py)                     |
+| DDEG | Double-Degree Array                 | [Link](https://rosalind.info/problems/ddeg/) | [Link](Algoritmic_Heights/DDEG/DDEG.py)                   |
+| MAJ  | Majority Element                    | [Link](https://rosalind.info/problems/maj/)  | [Link](Algoritmic_Heights/MAJ/MAJ.py)                     |
+| MER  | Merge Two Sorted Arrays             | [Link](https://rosalind.info/problems/mer/)  | [Link](Algoritmic_Heights/MER/MER.py)                     |
+| 2SUM | 2SUM                                | [Link](https://rosalind.info/problems/2sum/) | [Link](Algoritmic_Heights/2SUM/2SUM.py)                   |
+| BFS  | Breadth-First Search                | [Link](https://rosalind.info/problems/bfs/)  | [Link](Algoritmic_Heights/BFS/BFS.py)                     |
+| CC   | Connected Components                | [Link](https://rosalind.info/problems/cc/)   | [Link](Algoritmic_Heights/CC/CC.py)                       |
+| MS   | Merge Sort                          | [Link](https://rosalind.info/problems/ms/)   | [Link](Algoritmic_Heights/MS/MS.py)                       |
+| 3SUM | 3SUM                                | [Link](https://rosalind.info/problems/3sum/) | [Link](Algoritmic_Heights/3SUM/3SUM.py)                   |
+| DIJ  | Dijkstra's Algorithm                | [Link](https://rosalind.info/problems/dij/)  | [Link](Algoritmic_Heights/DIJ/DIJ.py)                     |
+| INV  | Counting Inversions                 | [Link](https://rosalind.info/problems/inv/)  | [Link](Algoritmic_Heights/INV/INV.py)                     |
+| SQ   | Square in a Graph                   | [Link](https://rosalind.info/problems/sq/)   | [Link](Algoritmic_Heights/SQ/SQ.py)                       |
+| HEA  | Building a Heap                     | [Link](https://rosalind.info/problems/hea/)  | [Link](Algoritmic_Heights/HEA/HEA.py)                     |
+| PAR  | 2-Way Partition                     | [Link](https://rosalind.info/problems/par/)  | [Link](Algoritmic_Heights/PAR/PAR.py)                     |
+| BIP  | Testing Bipartiteness               | [Link](https://rosalind.info/problems/bip/)  | [Link](Algoritmic_Heights/BIP/BIP.py)                     |
+| DAG  | Testing Acyclicity                  | [Link](https://rosalind.info/problems/dag/)  | [Link](Algoritmic_Heights/DAG/DAG.py)                     |
+| BF   | Bellman-Ford Algorithm              | [Link](https://rosalind.info/problems/bf/)   | [Link](Algoritmic_Heights/BF/BF.py)                       |
+| CTE  | Shortest Cycle Through a Given Edge | [Link](https://rosalind.info/problems/cte/)  | [Link](Algoritmic_Heights/CTE/CTE.py)                     |
+| HS   | Heap Sort                           | [Link](https://rosalind.info/problems/hs/)   | [Link](Algoritmic_Heights/HS/HS.py)                       |
+| PAR3 | 3-Way Partition                     | [Link](https://rosalind.info/problems/par3/) | [Link](Algoritmic_Heights/PAR3/PAR3.py)                   |
+| MED  | Median                              | [Link](https://rosalind.info/problems/med/)  | [Link](Algoritmic_Heights/MED/MED.py)                     |
+| PS   | Partial Sort                        | [Link](https://rosalind.info/problems/ps/)   | [Link](Algoritmic_Heights/PS/PS.py)                       |
+| TS   | Topological Sorting                 | [Link](https://rosalind.info/problems/ts/)   | [Link](Algoritmic_Heights/TS/TS.py)                       |
+| HDAG | Hamiltonian Path in DAG             | [Link](https://rosalind.info/problems/hdag/) | [Link](Algoritmic_Heights/HDAG/HDAG.py)                   |
+| NWC  | Negative Weight Cycle               | [Link](https://rosalind.info/problems/nwc/)  | [Link](Algoritmic_Heights/NWC/NWC.py)                     |
+| QS   | Quick Sort                          | [Link](https://rosalind.info/problems/qs/)   | [Link](Algoritmic_Heights/QS/QS.py)                       |
+| SCC  | Strongly Connected Components       | [Link](https://rosalind.info/problems/scc/)  | [Link](Algoritmic_Heights/SCC/SCC.py)                     |
+| 2SAT | 2-Satisfiability                    | [Link](https://rosalind.info/problems/2sat/) | [Link](Algoritmic_Heights/2SAT/2SAT.py)                   |
+| GS   | General Sink                        | [Link](https://rosalind.info/problems/gs/)   | [Link](Algoritmic_Heights/GS/GS.py)                       |
+| SC   | Semi-Connected Graph                | [Link](https://rosalind.info/problems/sc/)   | [Link](Algoritmic_Heights/SC/SC.py)                       |
+| SDAG | Shortest Paths in DAG               | [Link](https://rosalind.info/problems/sdag/) | [Link](Algoritmic_Heights/SDAG/SDAG.py)                   |
 
 
 
