@@ -7,13 +7,11 @@ This repository contains solutions to problems from the [ROSALIND](https://rosal
 - **Total Problems:** 318
 - **Solved:** 70
 
-| Track                       | Status |
-|-----------------------------|--------|
-| Python Village              | ☑      |
-| Bioinformatics Stronghold   | ☐      |
-| Bioinformatics Armory       | ☑      |
-| Bioinformatics Textbook Track | ☐      |
-| Algorithmic Heights         | ☐      |
+- [x] Python Village
+- [ ] Bioinformatics Stronghold
+- [x] Bioinformatics Armory
+- [ ] Bioinformatics Textbook Track
+- [ ] Algorithmic Heights
 
 
 Short description of all the tasks 
